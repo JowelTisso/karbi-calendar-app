@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /b \"C:\\\\Users\\\\jowel\\\\Documents\\\\PERSONAL\\\\PROJECT\\\\ReactNative\\\\Calendar\\\\claude\\\\frontend\\\\app\")",
+      "Bash(tree:*)",
+      "Bash(cat:*)",
+      "Bash(npm install:*)",
+      "Bash(npx expo install:*)"
+    ]
+  }
+}
